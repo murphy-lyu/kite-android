@@ -76,7 +76,7 @@
     <string name="author">作者</string>
     <string name="author_name">@Murphy</string>
     <string name="github">GitHub</string>
-    <string name="github_repository">murphy-lyu/SMS-Forwarder</string>
+    <string name="github_repository">murphy-lyu/kite-android</string>
     <string name="version">版本</string>
     <string name="version_name">1.0.0 beta</string>
     <string name="language">语言</string>
